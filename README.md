@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm haider ali</h1>
-<h3 align="center">A passionate frontend developer from pakistan. Welcome to my GitHub profile! I'm a passionate web developer with expertise in React, Vue, and GSAP. Here's a little about what I'm up to:</h3>
+<h3 align="center"> Welcome to my GitHub profile! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyboyy1221&label=Profile%20views&color=0e75b6&style=flat" alt="joyboyy1221" /> </p>
 
