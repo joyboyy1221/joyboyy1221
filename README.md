@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyboyy1221&label=Profile%20views&color=0e75b6&style=flat" alt="joyboyy1221" /> </p>
 
-- 📫 How to reach me **ha4325578@gmail.com**
-- also my linkdein profile **https://www.linkedin.com/in/haider-ali-a46385247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
-- my x profile:**https://x.com/Joy_boy699?t=_wuoS0nuq8NLdJQpHc7jZQ&s=08**
-- my insta profile:**https://www.instagram.com/joyy_boyy6?utm_source=qr&igsh=MTIzbHM1dDkxcWdjbA==**
-- my facebook account:**https://www.facebook.com/profile.php?id=100089984033215&mibextid=ZbWKwL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
