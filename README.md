@@ -49,7 +49,15 @@ Decentralized pixel-style file storage on Aptos via Shelby Protocol.
 [![GitHub](https://img.shields.io/badge/joyboyy1221-181717?style=flat&logo=github)](https://github.com/joyboyy1221)
 
 ---
-<img width="1919" height="925" alt="image" src="https://github.com/user-attachments/assets/125c692a-cfda-44d0-b19c-ca20b5082113" />
+### Hi, I'm Haider
+
+Web3 developer and content creator.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joyboyy1221/joyboyy1221/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joyboyy1221/joyboyy1221/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/joyboyy1221/joyboyy1221/output/github-snake.svg" />
+</picture>
 
 
 <p align="center">
