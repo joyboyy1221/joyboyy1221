@@ -49,6 +49,8 @@ Decentralized pixel-style file storage on Aptos via Shelby Protocol.
 [![GitHub](https://img.shields.io/badge/joyboyy1221-181717?style=flat&logo=github)](https://github.com/joyboyy1221)
 
 ---
+<img width="1919" height="925" alt="image" src="https://github.com/user-attachments/assets/125c692a-cfda-44d0-b19c-ca20b5082113" />
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joyboyy1221&color=0052FF&style=flat&label=profile+views" />
