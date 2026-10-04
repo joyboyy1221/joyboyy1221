@@ -1,65 +1,49 @@
-# ⛏️ haider ali · web3 builder on Base
-
-> *shipping onchain, one block at a time.*
-
----
-
-## 🔨 what i'm building
-
-### [BaseCraft](https://github.com/joyboyy1221/basecraft) — *live on Base Mainnet*
-Minecraft-themed daily GM check-in dapp with streaks, leaderboards & achievement badges.  
-Contract deployed @ [`0x73D20F5...664A002`](https://basescan.org/address/0x73D20F5419f4edB3eb1731C4C66C6045D664A002)
-
-### Pixel Chest *(in progress)*
-Decentralized pixel-style file storage on Aptos via Shelby Protocol.
-
----
-
-## 🧱 stack
-
-**Onchain**  
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)
-![Base](https://img.shields.io/badge/Base-0052FF?style=flat&logo=coinbase&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-yellow?style=flat)
-![Foundry](https://img.shields.io/badge/Foundry-black?style=flat)
-
-**Frontend**  
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-
-**Other**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## ⛓️ ecosystem
-
-- 🔵 **Base** — primary chain, mainnet deployed
-- 🟣 **Aptos** — Shelby Protocol integrations
-- 🔷 **Arc** — smart contracts on Arc Testnet
-
----
-
-## 📡 find me
-
-[![X](https://img.shields.io/badge/@Draaagoonn-black?style=flat&logo=x&logoColor=white)](https://x.com/Draaagoonn)
-[![GitHub](https://img.shields.io/badge/joyboyy1221-181717?style=flat&logo=github)](https://github.com/joyboyy1221)
-
----
-### Hi, I'm Haider
-
-Web3 developer and content creator.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joyboyy1221/joyboyy1221/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joyboyy1221/joyboyy1221/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/joyboyy1221/joyboyy1221/output/github-snake.svg" />
-</picture>
-
+<h1 align="center">Haider Ali</h1>
+<p align="center">Web3 builder on Base. Shipping onchain, one block at a time.</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joyboyy1221&color=0052FF&style=flat&label=profile+views" />
+  <a href="https://x.com/Draaagoonn"><img src="https://img.shields.io/badge/X-@Draaagoonn-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://github.com/joyboyy1221"><img src="https://img.shields.io/badge/GitHub-joyboyy1221-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=joyboyy1221&color=111111&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joyboyy1221/joyboyy1221/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joyboyy1221/joyboyy1221/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/joyboyy1221/joyboyy1221/output/github-snake.svg" />
+  </picture>
+</p>
+
+## What I'm building
+
+**[BaseCraft](https://github.com/joyboyy1221/basecraft)**, live on Base Mainnet.
+A daily GM streak dapp with a Minecraft theme, leaderboards and achievement badges.
+Contract: [`0x73D20F5...664A002`](https://basescan.org/address/0x73D20F5419f4edB3eb1731C4C66C6045D664A002)
+
+**Pixel Chest**, in progress.
+Decentralized file storage with a pixel art interface on Aptos, built on Shelby Protocol.
+
+## Stack
+
+**Onchain**<br>
+<img src="https://img.shields.io/badge/Solidity-111111?style=for-the-badge" alt="Solidity" />
+<img src="https://img.shields.io/badge/Base-111111?style=for-the-badge" alt="Base" />
+<img src="https://img.shields.io/badge/Hardhat-111111?style=for-the-badge" alt="Hardhat" />
+<img src="https://img.shields.io/badge/Foundry-111111?style=for-the-badge" alt="Foundry" />
+
+**Frontend**<br>
+<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind-111111?style=for-the-badge" alt="Tailwind" />
+
+**Other**<br>
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge" alt="Python" />
+<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge" alt="Linux" />
+
+## Ecosystem
+
+* Base: primary chain, mainnet deployed
+* Aptos: Shelby Protocol integrations
+* Arc: smart contracts on Arc Testnet
